@@ -3,7 +3,7 @@
 **Autora**: Marjorie Lisseth Jiménez Jiménez  
 **Asignatura**: Interfaces y Multimedia  
 **Institución**: Universidad Internacional del Ecuador (UIDE)  
-**Fecha**: 19 de diciembre de 2025  
+**Fecha**: 18 de diciembre de 2025  
 
 ---
 
